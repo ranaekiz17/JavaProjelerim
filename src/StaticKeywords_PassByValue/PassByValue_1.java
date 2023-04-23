@@ -1,6 +1,6 @@
 package StaticKeywords_PassByValue;
 
-public class PassByValue {
+public class PassByValue_1 {
 
     public static void main(String[] args) {
 
